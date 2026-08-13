@@ -3,7 +3,7 @@ Problem:
 Left rotate an array by K position
 
 Approach:
-We will take the value at 0th index and keep it in an temp variable and will make all the elements to shift towards 1 position left and at last we add the temp value at the last position.
+Here we will rotate the entire array and then we will rotate the array from 0 to k-1 and again rotate from k to N-1 of the array so that we can acheive the K rotation
 
 Time Complexity:
 O(N)
