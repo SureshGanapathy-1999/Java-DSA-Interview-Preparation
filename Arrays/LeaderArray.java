@@ -1,6 +1,6 @@
 /*
 Problem:
-Check Consecutive One's
+Check Leader in an Array
 
 Approach:
 Note: Last element is always an Leader element.
