@@ -1,0 +1,159 @@
+Phase 1 – Arrays (10 questions)
+No.	Problem
+1	Largest element in an array  									- ✅
+2	Second largest element											- ✅
+3	Reverse an array												- ✅
+4	Check if the array is sorted									- ✅
+5	Remove duplicates from a sorted array							- ✅
+6	Move all zeros to the end (LeetCode 283 – Move Zeroes)			- ✅
+7	Left rotate an array by one position							- ✅
+8	Left rotate an array by K positions								- ✅
+9	Maximum consecutive ones										- ✅
+10	Leaders in an array
+
+Phase 2 – Prefix Sum Pattern (5 questions)
+Pattern: Store information from previous elements.
+
+No.	Problem
+1	Prefix Sum
+2	Range Sum Query
+3	Equilibrium Index
+4	Product Array Except Self
+5	Subarray Sum Equals K
+
+Phase 3 – Sliding Window Pattern (8 questions)
+Pattern: Expand and shrink the window.
+
+No.	Problem
+1	Maximum sum subarray of size K
+2	First negative number in every window
+3	Maximum average subarray
+4	Longest substring without repeating characters
+5	Longest repeating character replacement
+6	Minimum size subarray sum
+7	Maximum points obtainable from cards
+8	Fruits into baskets
+
+Phase 4 – Two-Pointer Pattern (7 questions)
+Pattern: Use left and right pointers.
+
+No.	Problem
+1	Two Sum (sorted array)
+2	Remove duplicates
+3	Container with most water
+4	3Sum
+5	4Sum
+6	Trapping rainwater
+7	Sort colors
+
+Phase 5 – Binary Search Pattern (10 questions)
+
+No.	Problem
+1	Binary Search
+2	Lower Bound
+3	Upper Bound
+4	Search Insert Position
+5	First and Last Occurrence
+6	Search in Rotated Sorted Array
+7	Find Peak Element
+8	Square Root of X
+9	Koko Eating Bananas
+10	Capacity to Ship Packages Within D Days
+
+Phase 6 – Hashing Pattern (7 questions)
+
+No.	Problem
+1	Two Sum
+2	Frequency count
+3	Majority element
+4	Longest consecutive sequence
+5	Group anagrams
+6	Valid anagram
+7	Top K frequent elements
+
+Phase 7 – Linked List Pattern (10 questions)
+
+No.	Problem
+1	Reverse linked list
+2	Middle node
+3	Detect cycle
+4	Merge two sorted lists
+5	Remove nth node from the end
+6	Reverse nodes in K groups
+7	Palindrome linked list
+8	Intersection of linked lists
+9	Add two numbers
+10	Copy list with random pointers
+
+Phase 8 – Stack Pattern (8 questions)
+
+No.	Problem
+1	Valid parentheses
+2	Min stack
+3	Next greater element
+4	Next smaller element
+5	Largest rectangle in a histogram
+6	Daily temperatures
+7	Asteroid collision
+8	Decode string
+
+Phase 9 – Queue Pattern (5 questions)
+
+No.	Problem
+1	Implement queue
+2	Circular queue
+3	Sliding window maximum
+4	Rotten oranges
+5	First non-repeating character
+
+Phase 10 – Recursion and Backtracking (8 questions)
+
+No.	Problem
+1	Print all subsequences
+2	Generate parentheses
+3	Combination Sum
+4	Combination Sum II
+5	Subsets
+6	Permutations
+7	N-Queens
+8	Sudoku solver
+
+Phase 11 – Trees (12 questions)
+
+No.	Problem
+1	Inorder traversal
+2	Preorder traversal
+3	Postorder traversal
+4	Level-order traversal
+5	Maximum depth
+6	Balanced binary tree
+7	Diameter of a tree
+8	Lowest common ancestor
+9	Validate BST
+10	Kth smallest element
+11	Zigzag traversal
+12	Path sum
+
+Phase 12 – Heap Pattern (6 questions)
+
+No.	Problem
+1	Kth largest element
+2	Top K frequent elements
+3	Merge K sorted lists
+4	Find median from a data stream
+5	K closest points
+6	Task scheduler
+
+Phase 13 – Graph Pattern (10 questions)
+
+No.	Problem
+1	DFS
+2	BFS
+3	Number of islands
+4	Flood fill
+5	Detect cycle in an undirected graph
+6	Detect cycle in a directed graph
+7	Topological sort
+8	Course schedule
+9	Dijkstra's algorithm
+10	Shortest path in a binary matrix
