@@ -29,7 +29,7 @@ After sorting
 
 						A = { 1 , 2 , 3 , 3 }
 						i =   0   1   2   3
-number less than element      0   1   2   
+number less than element      0   1   2   2
 
 
 */
@@ -52,7 +52,7 @@ public class NobleInteger {
 			
 			System.out.println();
 			
-			System.out.println("Count of Noble integer : " + answer);
+			System.out.println(" Noble Interger check : " + answer);
 			}
 			
     public static int solve(int[] A) {
